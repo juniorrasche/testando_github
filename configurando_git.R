@@ -28,3 +28,7 @@ usethis::use_git() #isso abre a aba do Git no projeto
 # Para iniciar o GitHub
 
 usethis::use_github()
+
+
+# testando uma alteração no computador do trabalho para ver se funcionou o clone
+# e a sincronização com o GitHub
