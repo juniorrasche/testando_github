@@ -32,3 +32,6 @@ usethis::use_github()
 
 # testando uma alteração no computador do trabalho para ver se funcionou o clone
 # e a sincronização com o GitHub
+
+
+# mostrando para Marilyn o teste do github
