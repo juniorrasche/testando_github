@@ -20,3 +20,11 @@ gitcreds::gitcreds_set()
 # Checando se a configuração deu certo
 
 usethis::git_sitrep()
+
+# Para iniciar o Git
+
+usethis::use_git() #isso abre a aba do Git no projeto
+
+# Para iniciar o GitHub
+
+usethis::use_github()
